@@ -131,6 +131,7 @@ body {
 }
 .link-h {
   color: var(--contact-color);
+  text-decoration: underline;
 }
 .link-h:hover {
   cursor: pointer;
