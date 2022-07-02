@@ -14,7 +14,7 @@ function Website(props) {
           alt={`${props.caption} website in ${props.link}`}
           className="website"
         />
-        <figcaption>{props.caption}</figcaption>
+        <figcaption className="caption">{props.caption}</figcaption>
       </figure>
     </a>
   );

@@ -1,5 +1,5 @@
 import React from "react";
-import profile from "../images/profile.png";
+import profile from "../images/profile.jpg";
 import { Link } from "react-router-dom";
 import resume from "../images/resume.pdf";
 
@@ -12,10 +12,13 @@ function hero() {
         <h1>Saurav Sanjel</h1>
         <h3>Fullstack Developer | MERN</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae nulla
-          aperiam voluptas quidem eligendi quod nisi voluptatibus sed sequi
-          laborum velit aspernatur molestias quia, temporibus blanditiis minus
-          quos accusantium suscipit vel quibusdam doloremque. Deserunt?
+          Web developer who can work in a team. Help out on skill development
+          for team members.Fast learner and can grasp new things quickly
+          including complicated concepts and problem solving techniques.
+        </p>
+        <p>
+          Willing to take challenges and help others out while being in the
+          process of learning.
         </p>
         <div className="grid">
           <Link to="/contact">
